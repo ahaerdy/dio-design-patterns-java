@@ -235,7 +235,7 @@ public interface ViaCepService {
 
 ---
 
-### 🏆 Quando usar cada abordagem?
+### Quando usar cada abordagem?
 
 | Situação | Recomendação |
 |---|---|
