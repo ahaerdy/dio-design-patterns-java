@@ -1,0 +1,18 @@
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Spring Boot / Maven
+target/
+*.jar
+*.war
+
+# OS
+.DS_Store
+Thumbs.db
