@@ -274,7 +274,7 @@ public interface ViaCepService {
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 Desenvolvido por **Arthur Haerdy** como parte do bootcamp TQI Fullstack Developer na DIO.
 
