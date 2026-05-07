@@ -108,7 +108,7 @@ Subsistema2CEP.recuperarCep: buscando CEP do CPF 123.456.789-00
 FachadaCRM: Migrando cliente ROBERTO do CEP 01310-100
 ```
 
-👉 [Documentação completa da Parte 1](./parte-1-java-puro/README.md)
+### 🔴 [Documentação completa da Parte 1](./parte-1-java-puro/README.md)
 
 ---
 
