@@ -9,7 +9,7 @@
 
 ---
 
-## 🧠 O que muda em relação à Parte 1?
+## O que muda em relação à Parte 1?
 
 Na Parte 1, você implementou os padrões **na mão**: construtor privado, interfaces, classes de orquestração. Tudo escrito explicitamente.
 
@@ -23,7 +23,7 @@ Na Parte 2, o Spring Boot **aplica esses mesmos padrões automaticamente** atrav
 
 ---
 
-## 🏗️ Arquitetura da Aplicação
+## Arquitetura da Aplicação
 
 A aplicação é uma **API REST** completa que gerencia clientes. Ao cadastrar um cliente informando apenas o CEP, o sistema consulta automaticamente a API pública **ViaCEP** e preenche o endereço completo.
 
@@ -47,7 +47,7 @@ A aplicação é uma **API REST** completa que gerencia clientes. Ao cadastrar u
 
 ---
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 gof-spring/
@@ -479,11 +479,11 @@ curl -s -X PUT http://localhost:8083/clientes/1 \
 curl -s -X DELETE http://localhost:8083/clientes/1
 ```
 
-> 💡 **Nota sobre o banco de dados:** o projeto usa H2, um banco em memória. Os dados são perdidos ao reiniciar a aplicação. Isso é intencional para fins de demonstração — em produção, bastaria trocar por MySQL ou PostgreSQL no `application.properties`.
+> **Nota sobre o banco de dados:** o projeto usa H2, um banco em memória. Os dados são perdidos ao reiniciar a aplicação. Isso é intencional para fins de demonstração — em produção, bastaria trocar por MySQL ou PostgreSQL no `application.properties`.
 
 ---
 
-## 💡 Resumo dos 3 Padrões no Spring
+## Resumo dos 3 Padrões no Spring
 
 | Padrão | Categoria | Como o Spring aplica | Anotação principal |
 |---|---|---|---|
@@ -493,16 +493,13 @@ curl -s -X DELETE http://localhost:8083/clientes/1
 
 ---
 
-## 🔗 Referências
+## Referências
 
 - [Documentação oficial do Spring Boot](https://spring.io/projects/spring-boot)
 - [Documentação do Spring Data JPA](https://spring.io/projects/spring-data-jpa)
 - [Documentação do Spring Cloud OpenFeign](https://spring.io/projects/spring-cloud-openfeign)
 - [API pública ViaCEP](https://viacep.com.br)
-- [DIO — repositório original do laboratório Spring](https://github.com/digitalinnovationone/lab-padroes-projeto-spring)
 
 ---
 
-> ⬅️ **Etapa anterior:** [Parte 1 — Padrões de Projeto com Java Puro](../parte-1-java-puro/README.md)
->
-> 🏠 **Visão geral e comparação das duas partes:** [README principal](../README.md)
+> **Etapa anterior:** [Parte 1 — Padrões de Projeto com Java Puro](../parte-1-java-puro/README.md)

@@ -9,7 +9,7 @@
 
 ---
 
-## 📚 O que são Padrões de Projeto (Design Patterns)?
+## O que são Padrões de Projeto (Design Patterns)?
 
 Imagine que você é um arquiteto e percebe que toda vez que projeta um prédio, o problema de "como fazer a escada de emergência" aparece. Você poderia resolver do zero toda vez — ou poderia usar uma **solução consolidada** que já foi testada e aprovada em centenas de prédios.
 
@@ -442,7 +442,7 @@ FachadaCRM: Migrando cliente ROBERTO do CEP 01310-100
 
 ---
 
-## 💡 Resumo Comparativo dos 3 Padrões
+## Resumo Comparativo dos 3 Padrões
 
 | Padrão | Categoria | Problema que resolve | Palavra-chave |
 |---|---|---|---|
@@ -452,14 +452,13 @@ FachadaCRM: Migrando cliente ROBERTO do CEP 01310-100
 
 ---
 
-## 🔗 Referências
+## Referências
 
 - [Design Patterns — GoF (Wikipedia)](https://en.wikipedia.org/wiki/Design_Patterns)
 - [Refactoring Guru — catálogo visual de Design Patterns](https://refactoring.guru/design-patterns)
-- [DIO — Lab Padrões de Projeto Java (repositório original)](https://github.com/digitalinnovationone/lab-padroes-projeto-java)
 - Livro: *"Design Patterns: Elements of Reusable Object-Oriented Software"* — Gamma, Helm, Johnson, Vlissides (1995)
 
 ---
 
-> ➡️ **Próxima etapa:** [Parte 2 — Padrões de Projeto com Spring Boot](../parte-2-spring/README.md)  
+> **Próxima etapa:** [Parte 2 — Padrões de Projeto com Spring Boot](../parte-2-spring/README.md)  
 > Veremos como o Spring Framework abstrai automaticamente esses mesmos padrões, reduzindo drasticamente a quantidade de código necessário.
