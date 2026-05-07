@@ -9,7 +9,7 @@
 
 ---
 
-## 📖 Sobre o Projeto
+## Sobre o Projeto
 
 Este repositório está dividido em **duas partes complementares**. Elas implementam os mesmos três padrões de projeto — Singleton, Strategy e Facade — de formas completamente diferentes, permitindo uma comparação direta entre as abordagens.
 
@@ -169,7 +169,7 @@ curl -s -X POST http://localhost:8083/clientes \
 
 ---
 
-## ⚖️ Comparação: Java Puro vs Spring Boot
+## Comparação: Java Puro vs Spring Boot
 
 Esta é a conclusão central do projeto. Os padrões são **os mesmos** — o que muda é quem faz o trabalho.
 
@@ -249,7 +249,7 @@ public interface ViaCepService {
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 | Tecnologia | Versão | Uso |
 |---|---|---|
@@ -263,23 +263,11 @@ public interface ViaCepService {
 
 ---
 
-## 📚 Referências
+## Referências
 
 - [Refactoring Guru — catálogo visual de Padrões de Projeto](https://refactoring.guru/pt-br/design-patterns)
+- [Documentação oficial do Java — Oracle](https://docs.oracle.com/en/java/)
 - [Documentação oficial do Spring Boot](https://spring.io/projects/spring-boot)
 - [API pública ViaCEP](https://viacep.com.br)
-- [Repositório original — Java Puro (DIO)](https://github.com/digitalinnovationone/lab-padroes-projeto-java)
-- [Repositório original — Spring Boot (DIO)](https://github.com/digitalinnovationone/lab-padroes-projeto-spring)
 - Livro de referência: *"Padrões de Projeto"* — Gamma, Helm, Johnson, Vlissides (1995)
-
----
-
-## Autor
-
-Desenvolvido por **Arthur Haerdy** como parte do bootcamp TQI Fullstack Developer na DIO.
-
-- GitHub: [@ahaerdy](https://github.com/ahaerdy)
-
----
-
-*Projeto baseado no Lab "Explorando Padrões de Projetos na Prática com Java" ministrado por [Venilton FalvoJr](https://www.linkedin.com/in/falvojr/) na [DIO](https://www.dio.me).*
+- [Repositório de Estudos — Bootcamp TQI Fullstack Developer](https://github.com/ahaerdy/DIO-learning/tree/main/TQI%20Fullstack%20Developer)
