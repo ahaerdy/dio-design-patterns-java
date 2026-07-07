@@ -95,7 +95,7 @@ public class ClienteServiceImpl implements ClienteService {
 }
 ```
 
-Apenas uma anotação substitui todo o mecanismo que você escreveu na Parte 1:
+Apenas uma anotação substitui todo o mecanismo que escrito na Parte 1:
 
 ```
 Java Puro                          Spring Boot
