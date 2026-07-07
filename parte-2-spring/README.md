@@ -11,7 +11,7 @@
 
 ## O que muda em relação à Parte 1?
 
-Na Parte 1, você implementou os padrões **na mão**: construtor privado, interfaces, classes de orquestração. Tudo escrito explicitamente.
+Na Parte 1, você foram implementados os padrões **na mão**: construtor privado, interfaces, classes de orquestração. Tudo escrito explicitamente.
 
 Na Parte 2, o Spring Boot **aplica esses mesmos padrões automaticamente** através de anotações. Você declara a intenção — o framework cuida da implementação.
 
