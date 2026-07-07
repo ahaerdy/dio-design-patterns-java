@@ -187,6 +187,8 @@ public interface ClienteRepository extends CrudRepository<Cliente, Long> {
 }
 ```
 
+> A interface `CrudRepository` está definida no pacote `org.springframework.data.repository` da biblioteca `. Ela é uma interface genérica que estende `Repository` e fornece métodos prontos para operações CRUD (Create, Read, Update, Delete).
+
 Ao estender `CrudRepository`, o Spring Data JPA **gera automaticamente em tempo de execução** toda a implementação dos métodos:
 
 | Método gerado | O que faz |
